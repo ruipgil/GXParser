@@ -1,0 +1,24 @@
+{
+  "name": "gxparser",
+  "version": "1.0.0",
+  "description": "Generic XML parser",
+  "main": "GXParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruipgil/gpxparser.git"
+  },
+  "keywords": [
+    "XML",
+    "parser",
+    "GPX"
+  ],
+  "author": "Rui Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruipgil/gpxparser/issues"
+  },
+  "homepage": "https://github.com/ruipgil/gpxparser#readme"
+}
